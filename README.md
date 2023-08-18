@@ -1,6 +1,6 @@
 # Exercício Python Simples
 
-Este repositório contém vários programas Python simples para demonstrar conceitos básicos e intermediários de programação. Cada programa aborda um tópico específico e pode ser útil para quem está aprendendo a programar em Python.
+Este repositório contém vários programas Python simples para exercitar conceitos básicos e intermediários de programação. Cada programa aborda um tópico específico e pode ser útil para melhorar a lógica e programação.
 
 ## Lista de Programas
 
